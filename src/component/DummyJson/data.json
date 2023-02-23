@@ -1,0 +1,191 @@
+[
+    {
+        "id": 0,
+        "category": "Categories",
+        "subItem": []
+    },
+    {
+        "id": 1,
+        "category": "Price",
+        "subItem": [
+            {
+                "name": "price",
+                "filterName": "0 - 5",
+                "filterValue": "0-5",
+                "isSelected": false
+            },
+            {
+                "name": "price",
+                "filterName": "6 - 10",
+                "filterValue": "6-10",
+                "isSelected": false
+            },
+            {
+                "name": "price",
+                "filterName": "11 - 15",
+                "filterValue": "11-15",
+                "isSelected": false
+            },
+            {
+                "name": "price",
+                "filterName": "16 - 20",
+                "filterValue": "16-20",
+                "isSelected": false
+            },
+            {
+                "name": "price",
+                "filterName": "21 & above",
+                "filterValue": "21-2000",
+                "isSelected": false
+            },
+            {
+                "name": "price",
+                "filterName": "Custom",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Rating",
+        "subItem": [
+            {
+                "name": "rating",
+                "rating": 4.0,
+                "filterName": "& Above",
+                "filterValue": 4,
+                "isSelected": false
+            },
+            {
+                "name": "rating",
+                "rating": 3.0,
+                "filterName": "& Above",
+                "filterValue": 3,
+                "isSelected": false
+            },
+            {
+                "name": "rating",
+                "rating": 2.0,
+                "filterName": "& Above",
+                "filterValue": 2,
+                "isSelected": false
+            },
+            {
+                "name": "rating",
+                "rating": 1.0,
+                "filterName": "& Above",
+                "filterValue": 1,
+                "isSelected": false
+            },
+            {
+                "name": "rating",
+                "rating": 0.0,
+                "filterName": "& Above",
+                "filterValue": 0,
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Years",
+        "subItem": [
+            {
+                "name": "years",
+                "filterName": "9 years & Above",
+                "filterValue": "9-15",
+                "isSelected": false
+            },
+            {
+                "name": "years",
+                "filterName": "7 years - 9 years",
+                "filterValue": "7-9",
+                "isSelected": false
+            },
+            {
+                "name": "years",
+                "filterName": "5 years - 7 years",
+                "filterValue": "5-7",
+                "isSelected": false
+            },
+            {
+                "name": "years",
+                "filterName": "3 Years - 5 years",
+                "filterValue": "3-5",
+                "isSelected": false
+            },
+            {
+                "name": "years",
+                "filterName": "1 year - 3 years",
+                "filterValue": "1-3",
+                "isSelected": false
+            },
+            {
+                "name": "years",
+                "filterName": "Custom",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Venders",
+        "subItem": []
+    },
+    {
+        "id": 5,
+        "category": "Min. Quantity",
+        "subItem": [
+            {
+                "name": "quantity",
+                "filterValue": "0-100",
+                "filterName": "0 - 100",
+                "isSelected": false
+            },
+            {
+                "name": "quantity",
+                "filterValue": "100-500",
+                "filterName": "100 - 500",
+                "isSelected": false
+            },
+            {
+                "name": "quantity",
+                "filterValue": "500-1000",
+                "filterName": "500 - 1000",
+                "isSelected": false
+            },
+            {
+                "name": "quantity",
+                "filterValue": "1000-1500",
+                "filterName": "1000 - 1500",
+                "isSelected": false
+            },
+            {
+                "name": "quantity",
+                "filterValue": "1500-100000",
+                "filterName": "1500 & above",
+                "isSelected": false
+            },
+            {
+                "name": "quantity",
+                "filterName": "Custom",
+                "isSelected": false
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Country",
+        "subItem": []
+    },
+    {
+        "id": 7,
+        "category": "Users",
+        "subItem": []
+    },
+    {
+        "id": 8,
+        "category": "Wishlist",
+        "subItem": []
+    }
+]
